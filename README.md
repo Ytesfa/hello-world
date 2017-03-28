@@ -1,5 +1,5 @@
 # hello-world
-this is to print hello world and make any changes to it
+this is to add information about myself
 
 hello everyone!
 
